@@ -1,0 +1,21 @@
+#t1 { color: rgb(4, 58, 26);
+
+}
+#fundo {color: rgb(0, 0, 0);}
+#fundo {font-size:36px;}
+
+body {background-color: rgba(176, 228, 171, 0.842);
+  }
+h1 {text-align: center }
+h1 { font-size:80px;}
+h1 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+h1 {font-style: italic;}
+#fundo{font-family: fantasy;}
+body { margin: 0,12px;}
+body { border: 1px solid;}
+.letra { font-size: 25px;}
+#sub1{ font-size: 36; }
+#sub1{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+img{display: block;
+ margin: 0 auto;}
+ 
